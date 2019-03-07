@@ -39,3 +39,6 @@ Calender.DAY_OF_MONTH = 日
 Calender.HOUR_OF_DAY = 時
 
 Calender.MINUTE = 分
+### 5.圖片
+<img width="500" height="750" src="https://github.com/MuHongWeiWei/ImageLookPractice/blob/master/Screenshot_1551952453.png"/>
+<img width="500" height="750" src="https://github.com/MuHongWeiWei/ImageLookPractice/blob/master/Screenshot_1551952456.png"/>
