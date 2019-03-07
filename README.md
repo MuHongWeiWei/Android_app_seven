@@ -41,4 +41,4 @@ Calender.HOUR_OF_DAY = 時
 Calender.MINUTE = 分
 ### 5.圖片
 <img width="300" height="500" src="https://github.com/MuHongWeiWei/Android_app_seven/edit/master/Screenshot_1551952453.png"/>
-<img width="500" height="750" src="https://github.com/MuHongWeiWei/Android_app_seven/edit/master/Screenshot_1551952456.png"/>
+<img width="300" height="500" src="https://github.com/MuHongWeiWei/Android_app_seven/edit/master/Screenshot_1551952456.png"/>
